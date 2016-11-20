@@ -1,0 +1,16 @@
+PODS:
+  - SwiftWordCloud (0.1.0)
+
+DEPENDENCIES:
+  - SwiftWordCloud (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftWordCloud:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftWordCloud: b3f89f851025a9932b896657f2f4469f619e8e5a
+
+PODFILE CHECKSUM: 192faa0f90a54c34ff957c172fb307f94e989daa
+
+COCOAPODS: 1.1.1

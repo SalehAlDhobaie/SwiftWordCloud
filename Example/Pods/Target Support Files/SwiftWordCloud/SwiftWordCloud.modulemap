@@ -1,0 +1,6 @@
+framework module SwiftWordCloud {
+  umbrella header "SwiftWordCloud-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SwiftWordCloud",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftWordCloud.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SwiftWordCloud",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Saleh AlDhobaie": "Saleh.Dhobaie@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SwiftWordCloud.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftWordCloud/Classes/**/*"
+}
