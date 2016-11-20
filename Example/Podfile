@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftWordCloud_Example' do
+  pod 'SwiftWordCloud', :path => '../'
+
+  target 'SwiftWordCloud_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
